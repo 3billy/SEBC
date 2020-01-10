@@ -55,6 +55,6 @@ basuki:x:2800:2800::/home/basuki:/bin/bash
 ## /etc/group
 
 ```
-hackers:x:2801:
-crackers:x:2802:
+hackers:x:2801:basuki
+crackers:x:2802:purnama
 ```
